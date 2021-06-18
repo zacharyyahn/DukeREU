@@ -1,3 +1,9 @@
 .csv
 .xlsx
 .txt
+Lib/
+Include/
+Scripts/
+/Lib/
+/Include/
+/Scripts/

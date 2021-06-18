@@ -1,9 +1,9 @@
 .csv
 .xlsx
 .txt
-/Lib/
 Lib/
 Include/
-/Include/
 Scripts/
+/Lib/
+/Include/
 /Scripts/

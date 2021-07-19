@@ -2,9 +2,9 @@ import pandas as pd
 
 pd.set_option('display.max_row',1000)
 
-data = pd.read_csv("Aviation.csv")
+data = pd.read_csv("TrimmedNonAviation.csv")
 
-f = open("aviation-unique.txt", "w")
+f = open("trimmed-nonaviation-unique.txt", "w")
 
 for col in data.columns:
     unique_list = data[col].unique()
